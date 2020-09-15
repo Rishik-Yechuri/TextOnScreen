@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextOnScreen", "TextOnScreen\TextOnScreen\TextOnScreen.csproj", "{FEB75051-A9C7-4FDB-9F25-0B5CE06BE933}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TextOnScreenContent", "TextOnScreen\TextOnScreenContent\TextOnScreenContent.contentproj", "{4665FFB2-432B-48DC-BF78-9E91227114D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB75051-A9C7-4FDB-9F25-0B5CE06BE933}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB75051-A9C7-4FDB-9F25-0B5CE06BE933}.Debug|x86.Build.0 = Debug|x86
+		{FEB75051-A9C7-4FDB-9F25-0B5CE06BE933}.Release|x86.ActiveCfg = Release|x86
+		{FEB75051-A9C7-4FDB-9F25-0B5CE06BE933}.Release|x86.Build.0 = Release|x86
+		{4665FFB2-432B-48DC-BF78-9E91227114D8}.Debug|x86.ActiveCfg = Debug|x86
+		{4665FFB2-432B-48DC-BF78-9E91227114D8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
